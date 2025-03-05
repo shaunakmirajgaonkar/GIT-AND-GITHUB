@@ -1,0 +1,7 @@
+# Contributing Guidelines
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them.
+4. Push your changes (`git push origin feature-branch`).
+5. Submit a pull request for review.
